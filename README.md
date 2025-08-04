@@ -20,3 +20,4 @@ or use within automated control systems.
 
 ##OUTPUT
 
+<img width="1263" height="664" alt="Image" src="https://github.com/user-attachments/assets/aa7a69b7-06b7-465e-be4c-8b9c79abaca2" />
